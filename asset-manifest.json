@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/video-monitoring/static/css/main.22b6e383.chunk.css",
+    "main.js": "/video-monitoring/static/js/main.20fcf8cd.chunk.js",
+    "main.js.map": "/video-monitoring/static/js/main.20fcf8cd.chunk.js.map",
+    "runtime-main.js": "/video-monitoring/static/js/runtime-main.fbc8bd62.js",
+    "runtime-main.js.map": "/video-monitoring/static/js/runtime-main.fbc8bd62.js.map",
+    "static/css/2.1255e3f7.chunk.css": "/video-monitoring/static/css/2.1255e3f7.chunk.css",
+    "static/js/2.fb572451.chunk.js": "/video-monitoring/static/js/2.fb572451.chunk.js",
+    "static/js/2.fb572451.chunk.js.map": "/video-monitoring/static/js/2.fb572451.chunk.js.map",
+    "static/js/3.c4bef7e9.chunk.js": "/video-monitoring/static/js/3.c4bef7e9.chunk.js",
+    "static/js/3.c4bef7e9.chunk.js.map": "/video-monitoring/static/js/3.c4bef7e9.chunk.js.map",
+    "index.html": "/video-monitoring/index.html",
+    "static/css/2.1255e3f7.chunk.css.map": "/video-monitoring/static/css/2.1255e3f7.chunk.css.map",
+    "static/css/main.22b6e383.chunk.css.map": "/video-monitoring/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.fb572451.chunk.js.LICENSE.txt": "/video-monitoring/static/js/2.fb572451.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbc8bd62.js",
+    "static/css/2.1255e3f7.chunk.css",
+    "static/js/2.fb572451.chunk.js",
+    "static/css/main.22b6e383.chunk.css",
+    "static/js/main.20fcf8cd.chunk.js"
+  ]
+}
